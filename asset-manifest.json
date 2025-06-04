@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e860f7b7.css",
+    "main.js": "/portfolio/static/js/main.ebc6045a.js",
+    "static/js/488.9d98adba.chunk.js": "/portfolio/static/js/488.9d98adba.chunk.js",
+    "static/media/puzzle.png": "/portfolio/static/media/puzzle.4a498bd2362e4267dd91.png",
+    "static/media/shell.png": "/portfolio/static/media/shell.b7a09271e03f154b4e83.png",
+    "static/media/http.png": "/portfolio/static/media/http.60f486d95ff684202918.png",
+    "static/media/oOu.gif": "/portfolio/static/media/oOu.c77ad51e61b3c9eafc56.gif",
+    "static/media/weather.png": "/portfolio/static/media/weather.6eb57d9a1c1709338b75.png",
+    "static/media/path.png": "/portfolio/static/media/path.f8090dc87e6b80b284bb.png",
+    "static/media/expense.png": "/portfolio/static/media/expense.2416b248ed97129f0b47.png",
+    "static/media/compiler.png": "/portfolio/static/media/compiler.56334aff270f0e64a9d3.png",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/jennifer.jpeg": "/portfolio/static/media/jennifer.7ed34aa862de608b8b0b.jpeg",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/travel.png": "/portfolio/static/media/travel.b50dca6ea6a2649194c3.png",
+    "static/media/bird.gif": "/portfolio/static/media/bird.210c51e6bb2ee7a0d8fa.gif",
+    "static/media/purdue-bell-tower.jpg": "/portfolio/static/media/purdue-bell-tower.f6794ca82512ccf201ff.jpg",
+    "static/media/store.png": "/portfolio/static/media/store.76f8981b584a84821df4.png",
+    "index.html": "/portfolio/index.html",
+    "main.e860f7b7.css.map": "/portfolio/static/css/main.e860f7b7.css.map",
+    "main.ebc6045a.js.map": "/portfolio/static/js/main.ebc6045a.js.map",
+    "488.9d98adba.chunk.js.map": "/portfolio/static/js/488.9d98adba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e860f7b7.css",
+    "static/js/main.ebc6045a.js"
+  ]
+}
