@@ -1,0 +1,37 @@
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import Form from 'react-bootstrap/Form';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+
+export default function AppHeader({ darkMode, onToggleDarkMode }) {
+  return (
+    <Navbar expand="lg" className="bg-body-tertiary">
+      <Container>
+        <Navbar.Brand href="#about">Jennifer Wang</Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        
+        <Navbar.Collapse id="basic-navbar-nav">
+          {/* Flexbox to align links and switch */}
+          <Nav className="me-auto align-items-center d-flex gap-3">
+            <Nav.Link href="#about" className="fs-6">Home</Nav.Link>
+            <Nav.Link href="#experiences" className="fs-6">Experiences</Nav.Link>
+            <Nav.Link href="#projects" className="fs-6">Projects</Nav.Link>
+            <Nav.Link href="#contact" className="fs-6">Contact</Nav.Link>
+
+            {/* Toggle Switch inside Nav, aligned with links */}
+            <Form className="mt-2">
+              <Form.Check 
+                type="switch"
+                id="dark-mode-switch"
+                label={<span className="fs-5">{darkMode ? '🌙' : '☀️'}</span>}
+                checked={darkMode}
+                onChange={onToggleDarkMode}
+              />
+            </Form>
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
+}
