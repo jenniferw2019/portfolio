@@ -443,6 +443,12 @@ body.dark #header .navbar-collapse a:before {
 }
 
 
+body.dark #header .navbar-toggler {
+  background-color: #d1b3ff;
+  border-color: #ffffff;
+}
+
+
 #footer {
   background: #b18fd8;
   padding: 15px 0;
