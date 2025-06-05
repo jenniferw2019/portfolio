@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e860f7b7.css",
+    "main.css": "/portfolio/static/css/main.3d6590d0.css",
     "main.js": "/portfolio/static/js/main.ebc6045a.js",
     "static/js/488.9d98adba.chunk.js": "/portfolio/static/js/488.9d98adba.chunk.js",
     "static/media/puzzle.png": "/portfolio/static/media/puzzle.4a498bd2362e4267dd91.png",
@@ -19,12 +19,12 @@
     "static/media/purdue-bell-tower.jpg": "/portfolio/static/media/purdue-bell-tower.f6794ca82512ccf201ff.jpg",
     "static/media/store.png": "/portfolio/static/media/store.76f8981b584a84821df4.png",
     "index.html": "/portfolio/index.html",
-    "main.e860f7b7.css.map": "/portfolio/static/css/main.e860f7b7.css.map",
+    "main.3d6590d0.css.map": "/portfolio/static/css/main.3d6590d0.css.map",
     "main.ebc6045a.js.map": "/portfolio/static/js/main.ebc6045a.js.map",
     "488.9d98adba.chunk.js.map": "/portfolio/static/js/488.9d98adba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e860f7b7.css",
+    "static/css/main.3d6590d0.css",
     "static/js/main.ebc6045a.js"
   ]
 }
