@@ -16,7 +16,7 @@ const projectsData1 = [
     image: require('../assets/images/compiler.png'),
     title: 'Simple-C Compiler',
     description: 'Implemented a single-pass compiler for a simplified subset of the C language using Lex, and Yacc.',
-    link: 'https://github.com/jenniferw2019/simple-c'
+    link: 'https://github.com/jenniferw2019/simple'
   },
   {
     id: 3,
@@ -64,7 +64,7 @@ const projectsData3 = [
     image: require('../assets/images/http.png'),
     title: 'HTTP Server',
     description: 'Engineered a lightweight HTTP server with low-level socket programming, supporting directory browsing, CGI scripts, and usage statistics.',
-    link: 'https://github.com/jenniferw2019/http-server'
+    link: 'https://github.com/jenniferw2019/http'
   },
   {
     id: 3,
