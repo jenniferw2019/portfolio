@@ -37,7 +37,11 @@ function AppExperiences() {
           <h6 className="vertical-timeline-element-subtitle" style={{ fontStyle: 'italic' }}>
             Software Development Intern</h6>
           <p>- Contributed to the development of a SaaS-based cloud analytics environment, 
-            leveraging AWS services to support scalable data processing and interactive visualization.</p>
+            leveraging AWS services to support scalable data processing.</p>
+          <p>- Designed and implemented a responsive React interface with integrated backend services, 
+            enabling real-time event streaming via Amazon Kinesis.</p>
+          <p>- Structured and depolyed a DynamoDB schema with S3 integration for asset storage, and
+            built a Lambda function to automate data flow into QuickSight.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
