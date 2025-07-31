@@ -39,9 +39,9 @@ function AppExperiences() {
           <p>- Contributed to the development of a SaaS-based cloud analytics environment, 
             leveraging AWS services to support scalable data processing.</p>
           <p>- Designed and implemented a responsive React interface with integrated backend services, 
-            enabling real-time event streaming via Amazon Kinesis.</p>
-          <p>- Structured and depolyed a DynamoDB schema with S3 integration for asset storage, and
-            built a Lambda function to automate data flow into QuickSight.</p>
+            improving stakeholder accessibility.</p>
+          <p>- Deployed a Flask REST API on AWS Lambda with API Gateway, automating data flow to S3 
+            and QuickSight for real-time visualization.</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
